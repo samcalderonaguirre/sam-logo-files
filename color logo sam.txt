@@ -1,4 +1,0 @@
-a10000
-rgb(161, 0, 0)
-hsl(0, 100%, 32%)
-Systems Engineer
